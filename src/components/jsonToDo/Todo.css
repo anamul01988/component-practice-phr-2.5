@@ -1,0 +1,18 @@
+.todos-content{
+    background-color: black;
+    border: 3px solid yellow;
+    color: yellowgreen;
+    margin: 30px;
+    padding-bottom: 20px;
+}
+.user-details{
+    border: 3px solid rgb(65, 225, 185);
+    background: rgb(146, 123, 123);
+    margin: 15px;
+    
+}
+.user-details-container{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-gap: 20px;
+}

@@ -3,6 +3,7 @@ import './App.css';
 import First from './components/first/First';
 import Blog from './components/blog/Blog';
 import Mobile from './components/mobile/Mobile';
+import Todo from './components/jsonToDo/Todo';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Blog heading={"This is third component."} author={"Faruk Hossain"}/>
         <First></First>
         <Mobile/>
+        <Todo/>
     </div>
   );
 }
