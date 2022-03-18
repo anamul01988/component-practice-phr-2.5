@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.blog{
+  background-color: paleturquoise;
+  border: 3px solid black;
+  margin: 30px;
+  color: black;
+}

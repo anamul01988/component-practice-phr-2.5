@@ -1,0 +1,11 @@
+.mobile-content{
+    background-color: black;
+    border: 3px solid yellow;
+    color: yellowgreen;
+    margin: 30px;
+    padding-bottom: 20px;
+}
+.mobile-content button{
+    border: 3px solid rgb(65, 225, 185);
+    padding: 10px 15px;
+}
